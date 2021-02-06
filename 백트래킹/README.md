@@ -6,4 +6,5 @@ N!의 시간복잡도로 개 느림
 
 <br>
 문제: https://www.acmicpc.net/problem/1759
+
 N과 M: https://hanbi97.tistory.com/115
